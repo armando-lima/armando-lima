@@ -7,7 +7,7 @@ I am a software developer and game designer who spends his free time gaming, sol
 - email: [armando.lima2@outlook.com](mailto:armando.lima2@outlook.com)
 
 ## 💻 Working
-I am working a 2D Sidescroller game inspired by Megaman. Currently I am using Unity as engine, but slowly transitioning to Godot, and C# to build it!
+I am working on a 2D Sidescroller game inspired by Megaman. Currently I am using Unity as engine, but slowly transitioning to Godot, and C# to build it!
 
 ## 📚 Studying
 - C#
