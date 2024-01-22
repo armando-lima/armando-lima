@@ -4,7 +4,7 @@ I am a software developer and game designer who spends his free time gaming, sol
 
 ## 📫 Reach me at:
 - LinkedIn: [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=12px> armando-limaa](https://www.linkedin.com/in/armandolimaa/)
-- email: [armando.lima2@gmail.com](mailto:armando.lima2@gmail.com)
+- email: [armando.lima2@outlook.com](mailto:armando.lima2@outlook.com)
 
 ## 💻 Working
 I am working a 2D Sidescroller game inspired by Megaman. Currently I am using Unity as engine, but slowly transitioning to Godot, and C# to build it!
